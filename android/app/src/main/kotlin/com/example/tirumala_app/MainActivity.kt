@@ -1,4 +1,4 @@
-package com.example.tirumala_app
+package com.unitedoriginals.unitedoriginals
 
 import io.flutter.embedding.android.FlutterActivity
 

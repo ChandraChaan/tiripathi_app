@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.tirumala_app">
+    package="com.unitedoriginals.unitedoriginals">
    <application
-        android:label="tirumala_app"
+        android:label="United originals - Animation videos , Stories"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
