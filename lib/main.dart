@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'stories/stories.dart';
+import 'presantation/stories/stories.dart';
 
 void main() {
   runApp(MyApp());
